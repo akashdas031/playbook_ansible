@@ -1,0 +1,8 @@
+Started by user [8mha:////4A0Nppe6KlXBcwnsjFE0ut3RjvBWX049j0cLRQuKgHKTAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZu/dLi1CL9xOzE4gwAt75eYMAAAAA=[0mAkash Das
+Running as SYSTEM
+Building in workspace /root/.jenkins/workspace/secondjobforfail
+[secondjobforfail] $ /bin/sh -xe /opt/apache-tomcat-8.5.87/temp/jenkins4406828133059456196.sh
++ deta
+/opt/apache-tomcat-8.5.87/temp/jenkins4406828133059456196.sh: line 2: deta: command not found
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

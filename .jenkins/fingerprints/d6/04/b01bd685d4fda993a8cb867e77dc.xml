@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-04-16 12:55:21.483 UTC</timestamp>
+  <original>
+    <name>newproj_package/org.akash:myProj</name>
+    <number>4</number>
+  </original>
+  <md5sum>d604b01bd685d4fda993a8cb867e77dc</md5sum>
+  <fileName>org.akash:myProj.war</fileName>
+  <usages>
+    <entry>
+      <string>newproj_package</string>
+      <ranges>4</ranges>
+    </entry>
+    <entry>
+      <string>newproj_package/org.akash:myProj</string>
+      <ranges>4</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

@@ -1,0 +1,9 @@
+Started by user [8mha:////4A0Nppe6KlXBcwnsjFE0ut3RjvBWX049j0cLRQuKgHKTAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZu/dLi1CL9xOzE4gwAt75eYMAAAAA=[0mAkash Das
+Running as SYSTEM
+Building in workspace /root/.jenkins/workspace/firstjob
+[firstjob] $ /bin/sh -xe /opt/apache-tomcat-8.5.87/temp/jenkins6021785732077007303.sh
++ date
+Thu Mar 30 23:34:05 IST 2023
++ pwd
+/root/.jenkins/workspace/firstjob
+Finished: SUCCESS

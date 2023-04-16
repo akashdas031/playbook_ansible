@@ -1,0 +1,56 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.maven.MavenBuild plugin="maven-plugin@3.21">
+  <actions>
+    <hudson.tasks.Fingerprinter_-FingerprintAction>
+      <record>
+        <entry>
+          <string>com.cloudbots.www:cloud_app:pom.xml</string>
+          <string>96030b0c2b2ebb123b4f93e7eb17ff43</string>
+        </entry>
+      </record>
+    </hudson.tasks.Fingerprinter_-FingerprintAction>
+    <hudson.maven.reporters.MavenArtifactRecord>
+      <records/>
+      <parent reference="../../.."/>
+      <pomArtifact>
+        <groupId>com.cloudbots.www</groupId>
+        <artifactId>cloud_app</artifactId>
+        <version>1.0-SNAPSHOT</version>
+        <type>pom</type>
+        <fileName>pom.xml</fileName>
+        <canonicalName>cloud_app-1.0-SNAPSHOT.pom</canonicalName>
+        <md5sum>96030b0c2b2ebb123b4f93e7eb17ff43</md5sum>
+      </pomArtifact>
+      <mainArtifact reference="../pomArtifact"/>
+      <attachedArtifacts/>
+    </hudson.maven.reporters.MavenArtifactRecord>
+  </actions>
+  <queueId>-1</queueId>
+  <timestamp>1680297063182</timestamp>
+  <startTime>1680297071615</startTime>
+  <result>SUCCESS</result>
+  <duration>3022</duration>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>/root/.jenkins/workspace/compilejobss</workspace>
+  <executedMojos class="java.util.concurrent.CopyOnWriteArrayList">
+    <hudson.maven.ExecutedMojo>
+      <groupId>org.apache.maven.plugins</groupId>
+      <artifactId>maven-resources-plugin</artifactId>
+      <version>3.0.2</version>
+      <goal>resources</goal>
+      <executionId>default-resources</executionId>
+      <duration>927</duration>
+      <digest>676fc0406f27590c3de6af80a92501bb</digest>
+    </hudson.maven.ExecutedMojo>
+    <hudson.maven.ExecutedMojo>
+      <groupId>org.apache.maven.plugins</groupId>
+      <artifactId>maven-compiler-plugin</artifactId>
+      <version>3.8.0</version>
+      <goal>compile</goal>
+      <executionId>default-compile</executionId>
+      <duration>650</duration>
+      <digest>5a0d698e5eb10fe2ac2c57fad3cc5fdf</digest>
+    </hudson.maven.ExecutedMojo>
+  </executedMojos>
+</hudson.maven.MavenBuild>

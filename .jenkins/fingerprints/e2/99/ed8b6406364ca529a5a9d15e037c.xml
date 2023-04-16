@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-03-31 21:24:35.16 UTC</timestamp>
+  <original>
+    <name>warpackage/org.cloudbots.www:cloud_app_war</name>
+    <number>1</number>
+  </original>
+  <md5sum>e299ed8b6406364ca529a5a9d15e037c</md5sum>
+  <fileName>org.cloudbots.www:cloud_app_war.war</fileName>
+  <usages>
+    <entry>
+      <string>warpackage</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>warpackage/org.cloudbots.www:cloud_app_war</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

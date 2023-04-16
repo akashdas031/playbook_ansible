@@ -1,0 +1,13 @@
+Started on Apr 16, 2023 11:32:13 PM
+Started by event from 140.82.115.25 ⇒ http://18.183.40.170:8080/jenkins/github-webhook/ on Sun Apr 16 23:32:13 IST 2023
+Using strategy: Default
+[poll] Last Built Revision: Revision 5c4e0c85b6aec3c1dbf239c66dc796fffd915d1a (refs/remotes/origin/newbranch)
+The recommended git tool is: NONE
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.39.2'
+ > git ls-remote -h -- https://github.com/akashdas031/myProj.git # timeout=10
+Found 1 remote heads on https://github.com/akashdas031/myProj.git
+[poll] Latest remote head revision on refs/heads/newbranch is: e3884c393dfe714d110bd6898f855547af5a6afa
+Done. Took 0.52 sec
+Changes found

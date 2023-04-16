@@ -1,0 +1,73 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-03-30 18:47:13.926 UTC</timestamp>
+  <md5sum>3c42be5ea7cbf3635716abbb429cb90d</md5sum>
+  <fileName>junit:junit-4.11.jar</fileName>
+  <usages>
+    <entry>
+      <string>wartest</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>cicdpackage</string>
+      <ranges>1-4</ranges>
+    </entry>
+    <entry>
+      <string>cicdpackage/org.cloudbots.www:cloudapplication</string>
+      <ranges>1-4</ranges>
+    </entry>
+    <entry>
+      <string>warpackage</string>
+      <ranges>1-8</ranges>
+    </entry>
+    <entry>
+      <string>newproj_package</string>
+      <ranges>1-5</ranges>
+    </entry>
+    <entry>
+      <string>wartest/org.cloudbots.www:cloud_app_war</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>newproj_package/org.akash:myProj</string>
+      <ranges>1-5</ranges>
+    </entry>
+    <entry>
+      <string>testjob/com.cloudbots.www:cloud_app</string>
+      <ranges>1-4</ranges>
+    </entry>
+    <entry>
+      <string>cicdtest</string>
+      <ranges>1-5</ranges>
+    </entry>
+    <entry>
+      <string>warpackage/org.cloudbots.www:cloud_app_war</string>
+      <ranges>1-8</ranges>
+    </entry>
+    <entry>
+      <string>cicdtest/org.cloudbots.www:cloudapplication</string>
+      <ranges>1-5</ranges>
+    </entry>
+    <entry>
+      <string>newproj_test/org.akash:myProj</string>
+      <ranges>1-5</ranges>
+    </entry>
+    <entry>
+      <string>packaging jobs</string>
+      <ranges>1-6</ranges>
+    </entry>
+    <entry>
+      <string>newproj_test</string>
+      <ranges>1-5</ranges>
+    </entry>
+    <entry>
+      <string>packaging jobs/com.cloudbots.www:cloud_app</string>
+      <ranges>1-6</ranges>
+    </entry>
+    <entry>
+      <string>testjob</string>
+      <ranges>1-4</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

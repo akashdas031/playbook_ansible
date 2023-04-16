@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-03-30 19:15:44.517 UTC</timestamp>
+  <original>
+    <name>compilejob/org.akash.www:demoproject</name>
+    <number>7</number>
+  </original>
+  <md5sum>435f61798d7825c0bc4db59078704bae</md5sum>
+  <fileName>org.akash.www:demoproject:pom.xml</fileName>
+  <usages>
+    <entry>
+      <string>compilejob</string>
+      <ranges>7</ranges>
+    </entry>
+    <entry>
+      <string>compilejob/org.akash.www:demoproject</string>
+      <ranges>7</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

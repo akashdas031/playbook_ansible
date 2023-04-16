@@ -1,0 +1,37 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-03-31 21:20:42.476 UTC</timestamp>
+  <original>
+    <name>warcompile/org.cloudbots.www:cloud_app_war</name>
+    <number>1</number>
+  </original>
+  <md5sum>ea7734d6bf59bcfcb39a26a03876dabf</md5sum>
+  <fileName>org.cloudbots.www:cloud_app_war:pom.xml</fileName>
+  <usages>
+    <entry>
+      <string>wartest</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>warpackage</string>
+      <ranges>1-8</ranges>
+    </entry>
+    <entry>
+      <string>warcompile/org.cloudbots.www:cloud_app_war</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>wartest/org.cloudbots.www:cloud_app_war</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>warcompile</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>warpackage/org.cloudbots.www:cloud_app_war</string>
+      <ranges>1-8</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

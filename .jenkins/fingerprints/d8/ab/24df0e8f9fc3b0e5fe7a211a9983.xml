@@ -1,0 +1,37 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-04-01 07:45:24.904 UTC</timestamp>
+  <original>
+    <name>cicdcompile/org.cloudbots.www:cloudapplication</name>
+    <number>1</number>
+  </original>
+  <md5sum>d8ab24df0e8f9fc3b0e5fe7a211a9983</md5sum>
+  <fileName>org.cloudbots.www:cloudapplication:pom.xml</fileName>
+  <usages>
+    <entry>
+      <string>cicdcompile/org.cloudbots.www:cloudapplication</string>
+      <ranges>1-6</ranges>
+    </entry>
+    <entry>
+      <string>cicdtest</string>
+      <ranges>1-5</ranges>
+    </entry>
+    <entry>
+      <string>cicdpackage</string>
+      <ranges>1-4</ranges>
+    </entry>
+    <entry>
+      <string>cicdtest/org.cloudbots.www:cloudapplication</string>
+      <ranges>1-5</ranges>
+    </entry>
+    <entry>
+      <string>cicdcompile</string>
+      <ranges>1-6</ranges>
+    </entry>
+    <entry>
+      <string>cicdpackage/org.cloudbots.www:cloudapplication</string>
+      <ranges>1-4</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

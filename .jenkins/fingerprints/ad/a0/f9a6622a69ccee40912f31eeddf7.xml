@@ -1,0 +1,37 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-04-06 05:31:55.415 UTC</timestamp>
+  <original>
+    <name>newproj_compile/org.akash:myProj</name>
+    <number>1</number>
+  </original>
+  <md5sum>ada0f9a6622a69ccee40912f31eeddf7</md5sum>
+  <fileName>org.akash:myProj:pom.xml</fileName>
+  <usages>
+    <entry>
+      <string>newproj_package</string>
+      <ranges>1-5</ranges>
+    </entry>
+    <entry>
+      <string>newproj_package/org.akash:myProj</string>
+      <ranges>1-5</ranges>
+    </entry>
+    <entry>
+      <string>newproj_test</string>
+      <ranges>1-5</ranges>
+    </entry>
+    <entry>
+      <string>newproj_test/org.akash:myProj</string>
+      <ranges>1-5</ranges>
+    </entry>
+    <entry>
+      <string>newproj_compile/org.akash:myProj</string>
+      <ranges>1-5</ranges>
+    </entry>
+    <entry>
+      <string>newproj_compile</string>
+      <ranges>1-5</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

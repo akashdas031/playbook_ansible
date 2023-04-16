@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-04-01 07:58:33.384 UTC</timestamp>
+  <original>
+    <name>cicdpackage/org.cloudbots.www:cloudapplication</name>
+    <number>2</number>
+  </original>
+  <md5sum>f9e0ce024d15853ffedc7a225f9ef88f</md5sum>
+  <fileName>org.cloudbots.www:cloudapplication.war</fileName>
+  <usages>
+    <entry>
+      <string>cicdpackage</string>
+      <ranges>2</ranges>
+    </entry>
+    <entry>
+      <string>cicdpackage/org.cloudbots.www:cloudapplication</string>
+      <ranges>2</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
