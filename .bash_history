@@ -1,6 +1,4 @@
 passwd -S A
-usermod -L A
-passwd -S A
 usermod -U A
 passwd -S A
 clear

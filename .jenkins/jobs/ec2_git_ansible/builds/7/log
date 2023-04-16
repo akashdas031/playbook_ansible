@@ -1,0 +1,64 @@
+Started by user [8mha:////4A0Nppe6KlXBcwnsjFE0ut3RjvBWX049j0cLRQuKgHKTAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZu/dLi1CL9xOzE4gwAt75eYMAAAAA=[0mAkash Das
+[8mha:////4Hf8IHnSj8pGAevg1ebiUEqaCtTDsZJefIOXjo1dLGcLAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4KqshcCpTQ7R/elBcdvIzqPTRvJEQbxiWxv/MgQdxMOQAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4HvXh15iGk5eD+YDUiFCD0J7L5vDhygwl0/gWQjN/YpsAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZR/eT83ILSktQifY2k0sycEt3MPE19AHHxbH3KAAAA[0mJenkins in /root/.jenkins/workspace/ec2_git_ansible
+[8mha:////4EgOXhVvyZ6M9PB1+Ht8jUHfy/hhT3kOrDZ3iM/OWMdpAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4O4BJh40v5qoTCQ6BPk4XKWLQ64P71PWoXmqff3oHdtuAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4PY0ZwF6AfIcX8sujJyt/d9nQ1/GkcIkasCMXdxpAjxAAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (checkout)
+[8mha:////4C4Irhr0l3FPThDw3q35qrNUc4RqDDkvM4FrrM5ksgMAAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] checkout
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /root/.jenkins/workspace/ec2_git_ansible/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/akashdas031/playbook_ansible # timeout=10
+Fetching upstream changes from https://github.com/akashdas031/playbook_ansible
+ > git --version # timeout=10
+ > git --version # 'git version 2.39.2'
+ > git fetch --tags --force --progress -- https://github.com/akashdas031/playbook_ansible +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision c05c2e18586ef86cb95115d13e8f80af049bc604 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f c05c2e18586ef86cb95115d13e8f80af049bc604 # timeout=10
+Commit message: "added"
+ > git rev-list --no-walk c05c2e18586ef86cb95115d13e8f80af049bc604 # timeout=10
+[8mha:////4CSiF8RG/zFn/LjG8lh0ZizxZftg70LzWLpdAKyFbQAgAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+[8mha:////4MWWDnN3Nnp/JFIAKUEftMATpqjD8ASagBugkSOWSkuAAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4JyyjDsDzwSpNUE7bwgwEgH/K0xgspWt2PY9Dwc40tr2AAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDEh2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INtuQqUcEAAAA=[0m[Pipeline] stage
+[8mha:////4F4tx+J+0R+4QTccwHq5X27b9qTdxCOb4Sxd/lY8LwvwAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] { (Execute playbook)
+[8mha:////4GrDJ301GThuT50k8+scL18P89sJgJcMkyIF4EbiG/TdAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggysXWsbBkaT4AJIoT5nwCRVJ7Iq3kH0cxYucXOvm3e8wXrGOBIQTOrcDAYO8O8m3RZLFMYro4ys3RhHWEkp5hQWVCvTgsKSgqWVDWsOGwUdo6iQZ1gy628y8ZJ1M05hfIdONSmH+EBFS/mJEP6whxgd5v6SPjz/BXA7BPUbfupvX8DpQJrNb4AAAA=[0m[Pipeline] ansiblePlaybook
+[ec2_git_ansible] $ /usr/bin/ansible-playbook demoec2.yml -i /etc/ansible/ --private-key /root/.jenkins/workspace/ec2_git_ansible/ssh5599936229705677761.key -u ec2-user
+[WARNING]: Unable to parse /etc/ansible/roles as an inventory source
+[WARNING]: Found both group and host with same name: localhost
+
+PLAY [play for creating an aws ec2 instance] ***********************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [creation of ec2 instance using ec2 module] *******************************
+fatal: [localhost]: FAILED! => {"changed": false, "msg": "Instance creation failed => UnauthorizedOperation: You are not authorized to perform this operation. Encoded authorization failure message: KrQCibc7puNay4gVDM4755AAYCUiAKuoK7oIrQphiwMNCIAZP0wfxOQpw5Q-46XAdHGAUZvSd1KG32luHDNGSeNOY4gOBAFtlePlUGA4j48368Mm6WyCF45c1ZhWSTxQWgsoIWA2CC7a8zwT_A1oM2nNlA-hd4FZCcLgR3ibeR8VtCBd7htU3f5IXH5LzMbJe6orGo0C01uPbdwu8P63O1GH8OnAxM7hn5M_wrSk2HTja8qSs0QiP-1y9aTnAfpNrNESWECo1c4c7654xdDLpMbtx5sHQk1Uoe5N3ylev0P0QyobLvwg9pxWW0kWPJOo5blDhZF-d4DxqbcyGo7kCDdd4yCWS4q1mDEBIl4HF7WqwqGTpdFp6b06C7EnWpH7ySxel-LMV0rO3PlgQLqIsM6Q7AslXLluoekoucae0aeiET6Ek0G2dlh6thqF9MGGsKswpwsFatYqIiB-WXIZgcLPgiTwyz5sFHff85Jd6hEbxxP93fQOoe2lgr5b9aPnZztW1tokb6nmqIqB0ooywOztlcPN2CDnSaC9HUcl0H06pZmr4W1lJfmW9ykA8StkDbU9cYgOVdWlwkasvcq9L-u9QcWuakC0XsV98TKKAmfaHyGUkQ5yUMH9VXNhhRtRgYycLZKrhQq8jXjS1Jbfz7CShXhHLNCqzcdFM7vEEdSj2OECOriUvWRpvyNgbRnHSCC37uGvPniDczEc0BG0WT297l-QyFUBh6l_kx9OhdAUZhna_03046JFUqlbfR_4_6I2sW1X5Y6e7egj8a8X62caPGtiyL3K12_hCUtYXjQ6V1guqNiO1Hapy8hqthfFPtKHaXgPJKJC5IU_UE3hCCbgUCZFUj40I_f--LoPmVH6aGoF379cNquXW6gKih6Tida5irw8dP-GNfLiFrZcxrQ6tUfWJh5bXjiytaT0WH9vYL6I2MjmHRx5_Kw6AlZt45IVBfy-nqUAeDHtWqaI54-Z9VytFdTVfSw-HpKmgCDgjw1RhY4ODLHF6X17Mcv6EFTZJEUFxW4VrMP_gkEzFhMp0RAFQcvDoc5-CtfgUX5xshvYDfMZtyFfVkjeopXq1Ga5yesAfo-5eNd7WNBEPri-M2sbEHVkxYKNvCCToLlGJeVSRcKs6G564TEUOoUFRTVUV-kNBoz-WtQlTFoAKNgqMRP16SJXdbPtmMzrKQn3Lnsgke6YyYwO9DI0bGaziWvWqq6OfqcQ1NgvdjhItqKhtfA0U_A56b08UDqMMiBJ20QjcmIRPNHXa5L_aUe5K59wFyB4mx9yVQrWRrATwLg6lrqkQSk-vRtUtd98ZUjR_g_19Z6O2g41rcl6I3RleKXWN4inJ5qazaHhlwziLSSMAUlweOOW8SJhshd-IdCQDvvrdFOJlwMTNUYjQgL79ljNN32J8WTqoVe32wZqhrBei62E0vcmO6dqMg"}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+FATAL: command execution failed
+hudson.AbortException: Ansible playbook execution failed
+	at org.jenkinsci.plugins.ansible.AnsiblePlaybookBuilder.perform(AnsiblePlaybookBuilder.java:262)
+	at org.jenkinsci.plugins.ansible.workflow.AnsiblePlaybookStep$AnsiblePlaybookExecution.run(AnsiblePlaybookStep.java:430)
+	at org.jenkinsci.plugins.ansible.workflow.AnsiblePlaybookStep$AnsiblePlaybookExecution.run(AnsiblePlaybookStep.java:351)
+	at org.jenkinsci.plugins.workflow.steps.AbstractSynchronousNonBlockingStepExecution$1$1.call(AbstractSynchronousNonBlockingStepExecution.java:47)
+	at hudson.security.ACL.impersonate2(ACL.java:451)
+	at hudson.security.ACL.impersonate(ACL.java:463)
+	at org.jenkinsci.plugins.workflow.steps.AbstractSynchronousNonBlockingStepExecution$1.run(AbstractSynchronousNonBlockingStepExecution.java:44)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+[8mha:////4Hue4m3xrCWkNeAUI1EaAhpGGpfk59VQqOkMorLI7yPAAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyGUvHypah8QSYIEKY/wkQSeWJvJp3EM2MlVvs7NvmPV+wjgGOFDSzCgeDsTPMu0mXxTKF4eooM0sX1hFGcooJlQX16rSgoKRgSVXDisNGYecoGtQJttzKu2ycRN2cUyjfgUNt+hEeUPFiTjKkL8wBdrepj4Q/z18BzN4nqNv9p9o3geV5574AAAA=[0m[Pipeline] }
+[8mha:////4HAB9B+rrLdhN6N5TqpZoFflFFDG0N5A82rVnx01V6RKAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICEh2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7Bq/le42+AAAA[0m[Pipeline] // stage
+[8mha:////4HOmXhC7yy2nscaTxqYHFDGq0/09EO8xaAQeOXMtaW/LAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRElSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLsXZLsP9aSlGr0AAAA=[0m[Pipeline] }
+[8mha:////4KU0ICF2lVpfBVLUAbHkYv+VqfUHn5qZABu4Kw0NcCGoAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRQqJBVLRWGl5gEmOcWHfBvpBUvIiv8QciIlGx1c4083pjmSKOHJ1qLLWeUuVVF3o3PTVwbK+BB9XwRVVMiYNVpR1Kru1pxpLFYl6WY6GxslQFTp6cYK0b8zBFMOSKs8TJHTRyX9/xRKanspgoXxgjNre+Tky/zt8Axq4T5Nu9INt9AIZLYcO9AAAA[0m[Pipeline] // node
+[8mha:////4M72jIpCtxHJ0sEHFWgyppoEpFRCpIL/SUqdILhn6SMPAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRNBSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLsXZLsPoFIGib0AAAA=[0m[Pipeline] End of Pipeline
+ERROR: Ansible playbook execution failed
+Finished: FAILURE
